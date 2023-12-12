@@ -22,8 +22,7 @@ chat_id1: Here, insert the chat_id obtained from @getmyid_bot (insert id here).
 After this, you'll need to compile the file. You can use tools like auto-py-to-exe or pyinstaller.
     
 # Disclaimer:
-# This text is provided for informational purposes only. The use of the provided instructions and tools is at your own risk. I am not liable for any issues that may arise     
-# from the use of the provided information or tools.
+# This text is provided for informational purposes only. The use of the provided instructions and tools is at your own risk. I am not liable for any issues that may arise from the use of the provided information or tools.
 
 # RU
 # Иструкция:
@@ -45,5 +44,4 @@ chat_id1: Сюда нужно вставить chat_id, который мы по
 После этого необходимо скомпилировать файл. Для этого можно использовать инструменты типа auto-py-to-exe или pyinstaller.
     
 # Отказ от ответственности:
-# Этот текст предоставлен исключительно в ознакомительных целях. Использование указанных инструкций и инструментов происходит на ваш собственный риск. Я не несу       
-# ответственности за возможные проблемы, возникшие в результате использования предоставленной информации или инструментов.
+# Этот текст предоставлен исключительно в ознакомительных целях. Использование указанных инструкций и инструментов происходит на ваш собственный риск. Я не несу  ответственности за возможные проблемы, возникшие в результате использования предоставленной информации или инструментов.
